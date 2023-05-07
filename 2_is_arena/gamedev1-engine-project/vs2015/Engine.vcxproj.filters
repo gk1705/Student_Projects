@@ -1,0 +1,483 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="..\src\Game.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="../src/main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\UpdateManager.cpp">
+      <Filter>Source Files\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\SoundManager.cpp">
+      <Filter>Source Files\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\RenderManager.cpp">
+      <Filter>Source Files\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\PlayFieldManager.cpp">
+      <Filter>Source Files\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\PhysicsManager.cpp">
+      <Filter>Source Files\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\InputManager.cpp">
+      <Filter>Source Files\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\GameObjectManager.cpp">
+      <Filter>Source Files\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\AnimationManager.cpp">
+      <Filter>Source Files\Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\CollisionResolverObserver.cpp">
+      <Filter>Source Files\Observer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\HealAreaCollisionObserver.cpp">
+      <Filter>Source Files\Observer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\MagicBulletCollisionObserver.cpp">
+      <Filter>Source Files\Observer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\MonsterCollisionObserver.cpp">
+      <Filter>Source Files\Observer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\ProjectileCollisionObserver.cpp">
+      <Filter>Source Files\Observer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\UltimateObserver.cpp">
+      <Filter>Source Files\Observer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\AnimationComponent.cpp">
+      <Filter>Source Files\GameObject\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\BorderComponent.cpp">
+      <Filter>Source Files\GameObject\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\BoxColliderComponent.cpp">
+      <Filter>Source Files\GameObject\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\DespawnComponent.cpp">
+      <Filter>Source Files\GameObject\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\HealthBarComponent.cpp">
+      <Filter>Source Files\GameObject\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\IGraphicsComponent.cpp">
+      <Filter>Source Files\GameObject\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\LayerComponent.cpp">
+      <Filter>Source Files\GameObject\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\MovementComponent.cpp">
+      <Filter>Source Files\GameObject\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\PlayerStatsComponent.cpp">
+      <Filter>Source Files\GameObject\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\ProjectileComponent.cpp">
+      <Filter>Source Files\GameObject\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\RigidbodyComponent.cpp">
+      <Filter>Source Files\GameObject\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\SpriteComponent.cpp">
+      <Filter>Source Files\GameObject\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\HealthObserver.cpp">
+      <Filter>Source Files\Observer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\MenuState.cpp">
+      <Filter>Source Files\GameStateManager</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\MainState.cpp">
+      <Filter>Source Files\GameStateManager</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\PauseState.cpp">
+      <Filter>Source Files\GameStateManager</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\GameOverState.cpp">
+      <Filter>Source Files\GameStateManager</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\NLTmxMap.cpp">
+      <Filter>Source Files\miscellaneous</Filter>
+    </ClCompile>
+    <ClCompile Include="../src/stdafx.cpp">
+      <Filter>Source Files\miscellaneous</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\EnemyController.cpp">
+      <Filter>Source Files\GameObject\Player/Monster</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\EnemyLoader.cpp">
+      <Filter>Source Files\LoadGame</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\HeroLoader.cpp">
+      <Filter>Source Files\LoadGame</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\TileMap.cpp">
+      <Filter>Source Files\LoadGame</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\GameObject.cpp">
+      <Filter>Source Files\GameObject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\HeroSelectionState.cpp">
+      <Filter>Source Files\GameStateManager</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\GameStateManager.cpp">
+      <Filter>Source Files\GameStateManager</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\HumanController.cpp">
+      <Filter>Source Files\GameObject\Player/Monster</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\AttackState.cpp">
+      <Filter>Source Files\GameObject\Player/Monster\Player/Monster State\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\DeathState.cpp">
+      <Filter>Source Files\GameObject\Player/Monster\Player/Monster State\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\HitState.cpp">
+      <Filter>Source Files\GameObject\Player/Monster\Player/Monster State\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\IdleState.cpp">
+      <Filter>Source Files\GameObject\Player/Monster\Player/Monster State\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\ChargingStateEnemy.cpp">
+      <Filter>Source Files\GameObject\Player/Monster\Player/Monster State\Monster</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\ChaseStateEnemy.cpp">
+      <Filter>Source Files\GameObject\Player/Monster\Player/Monster State\Monster</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\CircleAroundStateEnemy.cpp">
+      <Filter>Source Files\GameObject\Player/Monster\Player/Monster State\Monster</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\DeathStateEnemy.cpp">
+      <Filter>Source Files\GameObject\Player/Monster\Player/Monster State\Monster</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\IdleStateEnemy.cpp">
+      <Filter>Source Files\GameObject\Player/Monster\Player/Monster State\Monster</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\PatrolingStateEnemy.cpp">
+      <Filter>Source Files\GameObject\Player/Monster\Player/Monster State\Monster</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\StunnedStateEnemy.cpp">
+      <Filter>Source Files\GameObject\Player/Monster\Player/Monster State\Monster</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\MovementState.cpp">
+      <Filter>Source Files\GameObject\Player/Monster\Player/Monster State\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\GUIVerticalInputHandler.cpp">
+      <Filter>Source Files\GameStateManager\GUIFlow</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\GUIHorizontalInputHandler.cpp">
+      <Filter>Source Files\GameStateManager\GUIFlow</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\DirectionalAnimator.cpp">
+      <Filter>Source Files\GameObject\Player/Monster\Player/Monster State</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\APlayerState.cpp">
+      <Filter>Source Files\GameObject\Player/Monster\Player/Monster State\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\AEnemyState.cpp">
+      <Filter>Source Files\GameObject\Player/Monster\Player/Monster State\Monster</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\ProjectileSpawner.cpp">
+      <Filter>Source Files\miscellaneous</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\AController.cpp">
+      <Filter>Source Files\GameObject\Player/Monster</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\src\Game.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\GameObject.h">
+      <Filter>Header Files\GameObject</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\AnimationComponent.h">
+      <Filter>Header Files\GameObject\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\AnimationManager.h">
+      <Filter>Header Files\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\BorderComponent.h">
+      <Filter>Header Files\GameObject\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\BoxColliderComponent.h">
+      <Filter>Header Files\GameObject\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\CollisionResolverObserver.h">
+      <Filter>Header Files\Observer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\Debug.h">
+      <Filter>Header Files\miscellaneous</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\NLTmxMap.h">
+      <Filter>Header Files\miscellaneous</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\GameObjectManager.h">
+      <Filter>Header Files\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\HealthBarComponent.h">
+      <Filter>Header Files\GameObject\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\DespawnComponent.h">
+      <Filter>Header Files\GameObject\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\HealthObserver.h">
+      <Filter>Header Files\Observer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\MagicbulletCollisionObserver.h">
+      <Filter>Header Files\Observer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\MonsterCollisionObserver.h">
+      <Filter>Header Files\Observer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\ProjectileCollisionObserver.h">
+      <Filter>Header Files\Observer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\UltimateObserver.h">
+      <Filter>Header Files\Observer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\MenuState.h">
+      <Filter>Header Files\GameStateManager</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\MainState.h">
+      <Filter>Header Files\GameStateManager</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\GameOverState.h">
+      <Filter>Header Files\GameStateManager</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\PauseState.h">
+      <Filter>Header Files\GameStateManager</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\HeroSelectionState.h">
+      <Filter>Header Files\GameStateManager</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\MovementComponent.h">
+      <Filter>Header Files\GameObject\Player/Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\IGameState.h">
+      <Filter>Header Files\GameStateManager</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\HealAreaCollisionObserver.h">
+      <Filter>Header Files\Observer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\IObserverComponent.h">
+      <Filter>Header Files\Observer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\IGraphicsComponent.h">
+      <Filter>Header Files\GameObject\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\PlayerStatsComponent.h">
+      <Filter>Header Files\GameObject\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\ProjectileComponent.h">
+      <Filter>Header Files\GameObject\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\RigidbodyComponent.h">
+      <Filter>Header Files\GameObject\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\SpriteComponent.h">
+      <Filter>Header Files\GameObject\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\PhysicsManager.h">
+      <Filter>Header Files\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\PlayFieldManager.h">
+      <Filter>Header Files\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\UpdateManager.h">
+      <Filter>Header Files\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\HumanController.h">
+      <Filter>Header Files\GameObject\Player/Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\IComponent.h">
+      <Filter>Header Files\GameObject\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\rapidxml\rapidxml.hpp">
+      <Filter>Header Files\miscellaneous</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\rapidxml\rapidxml_iterators.hpp">
+      <Filter>Header Files\miscellaneous</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\rapidxml\rapidxml_print.hpp">
+      <Filter>Header Files\miscellaneous</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\rapidxml\rapidxml_utils.hpp">
+      <Filter>Header Files\miscellaneous</Filter>
+    </ClInclude>
+    <ClInclude Include="../src/stdafx.h">
+      <Filter>Header Files\miscellaneous</Filter>
+    </ClInclude>
+    <ClInclude Include="../src/targetver.h">
+      <Filter>Header Files\miscellaneous</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\LayerComponent.h">
+      <Filter>Header Files\GameObject\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\InputManager.h">
+      <Filter>Header Files\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\RenderManager.h">
+      <Filter>Header Files\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\SoundManager.h">
+      <Filter>Header Files\Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\EnemyController.h">
+      <Filter>Header Files\GameObject\Player/Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\EnemyLoader.h">
+      <Filter>Header Files\LoadGame</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\HeroLoader.h">
+      <Filter>Header Files\LoadGame</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\TileMap.h">
+      <Filter>Header Files\LoadGame</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\GameStateManager.h">
+      <Filter>Header Files\GameStateManager</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\AttackState.h">
+      <Filter>Header Files\GameObject\Player/Monster\Player/Monster States\PlayerStates</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\DeathState.h">
+      <Filter>Header Files\GameObject\Player/Monster\Player/Monster States\PlayerStates</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\HitState.h">
+      <Filter>Header Files\GameObject\Player/Monster\Player/Monster States\PlayerStates</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\IdleState.h">
+      <Filter>Header Files\GameObject\Player/Monster\Player/Monster States\PlayerStates</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\MovementState.h">
+      <Filter>Header Files\GameObject\Player/Monster\Player/Monster States\PlayerStates</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\ChargingStateEnemy.h">
+      <Filter>Header Files\GameObject\Player/Monster\Player/Monster States\MonsterStates</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\ChaseStateEnemy.h">
+      <Filter>Header Files\GameObject\Player/Monster\Player/Monster States\MonsterStates</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\CircleAroundStateEnemy.h">
+      <Filter>Header Files\GameObject\Player/Monster\Player/Monster States\MonsterStates</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\DeathStateEnemy.h">
+      <Filter>Header Files\GameObject\Player/Monster\Player/Monster States\MonsterStates</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\IdleStateEnemy.h">
+      <Filter>Header Files\GameObject\Player/Monster\Player/Monster States\MonsterStates</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\PatrolingStateEnemy.h">
+      <Filter>Header Files\GameObject\Player/Monster\Player/Monster States\MonsterStates</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\StunnedStateEnemy.h">
+      <Filter>Header Files\GameObject\Player/Monster\Player/Monster States\MonsterStates</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\GUIVerticalInputHandler.h">
+      <Filter>Header Files\GameStateManager\GUIFlow</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\GUIHorizontalInputHandler.h">
+      <Filter>Header Files\GameStateManager\GUIFlow</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\DirectionalAnimator.h">
+      <Filter>Header Files\GameObject\Player/Monster\Player/Monster States</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\APlayerState.h">
+      <Filter>Header Files\GameObject\Player/Monster\Player/Monster States\PlayerStates</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\AEnemyState.h">
+      <Filter>Header Files\GameObject\Player/Monster\Player/Monster States\MonsterStates</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\ProjectileSpawner.h">
+      <Filter>Header Files\miscellaneous</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\AController.h">
+      <Filter>Header Files\GameObject\Player/Monster</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{cc0f5d32-13ac-4c56-9a53-9841385843f9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{d074bbed-2182-42c8-a107-6bfcedd91619}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\GameObject">
+      <UniqueIdentifier>{195bdfd4-10bc-4a98-aee5-68d854fd279b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\GameObject\Components">
+      <UniqueIdentifier>{dde9c849-3818-403a-9de2-44f3cfaf2d15}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Manager">
+      <UniqueIdentifier>{37650f27-8372-47cb-aad9-64448758d25a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Observer">
+      <UniqueIdentifier>{ed569438-c6ba-4594-aafa-0bc10775e29b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\miscellaneous">
+      <UniqueIdentifier>{04102e53-1f49-4cb5-bd84-9769d78ef10c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\GameStateManager">
+      <UniqueIdentifier>{ffc00712-99c6-454d-8992-e82f74aaa456}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\GameObject">
+      <UniqueIdentifier>{8c19eed3-57a1-404f-8ff9-7737cb5a3ffa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Manager">
+      <UniqueIdentifier>{5bdad9b8-af46-4368-af8b-a37597bf7ab0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\miscellaneous">
+      <UniqueIdentifier>{ae7aa303-f58c-440a-99fa-0d846a788dce}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\GameStateManager">
+      <UniqueIdentifier>{89084d2c-09eb-468c-83b7-71934567d001}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Observer">
+      <UniqueIdentifier>{0b0506f4-4e23-4af7-9c6e-ef3153eb16a2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\GameObject\Components">
+      <UniqueIdentifier>{cd6da9af-eff7-407b-a103-e53de9a81751}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\GameObject\Player/Monster">
+      <UniqueIdentifier>{ae8f5d2b-e2e0-426d-a54f-1f13ca34d923}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\GameObject\Player/Monster\Player/Monster State">
+      <UniqueIdentifier>{ad1a787c-c31b-4f22-ac08-1a2fe90a9245}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\GameObject\Player/Monster">
+      <UniqueIdentifier>{75956ddb-e09f-484c-af51-dc3d164e5014}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\GameObject\Player/Monster\Player/Monster States">
+      <UniqueIdentifier>{f9c96f05-0c41-4b09-9591-c0ee4b7d7224}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\LoadGame">
+      <UniqueIdentifier>{00083401-f573-49d3-bf2e-b30191f039ab}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\LoadGame">
+      <UniqueIdentifier>{ad17c033-9818-4392-a6ce-4d39a3d0bfa9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\GameObject\Player/Monster\Player/Monster States\PlayerStates">
+      <UniqueIdentifier>{3fdc5871-004b-4e97-83f0-2aff944fa977}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\GameObject\Player/Monster\Player/Monster States\MonsterStates">
+      <UniqueIdentifier>{220199ff-edb6-4bd8-ab66-959ea028c314}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\GameObject\Player/Monster\Player/Monster State\Monster">
+      <UniqueIdentifier>{bb98b19c-71c7-4154-a18c-86a3a0a733eb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\GameObject\Player/Monster\Player/Monster State\Player">
+      <UniqueIdentifier>{eb7642cf-0ad8-454d-98df-0e940d7bd449}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\GameStateManager\GUIFlow">
+      <UniqueIdentifier>{a7caac7c-050b-454f-b903-6ad375a0fd4f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\GameStateManager\GUIFlow">
+      <UniqueIdentifier>{0464c080-9211-4008-b77f-ed5ed54f9a7a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

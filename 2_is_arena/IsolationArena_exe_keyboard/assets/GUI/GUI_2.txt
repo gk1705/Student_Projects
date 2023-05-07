@@ -1,0 +1,8 @@
+Button {
+    NormalImage     : "button_small_normal.png";
+    HoverImage      : "button_small_hover.png";
+    DownImage       : "button_small_locked.png";
+    TextColorNormal : rgb(250, 250, 250);
+    TextColorHover  : rgb(200, 200, 200);
+    TextColorDown   : rgb(250, 250, 250);
+}

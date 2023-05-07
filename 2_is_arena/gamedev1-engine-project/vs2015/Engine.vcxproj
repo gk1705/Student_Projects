@@ -1,0 +1,239 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{A4057076-8163-44DB-9C04-6843C2F58174}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <RootNamespace>Engine</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v141</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v141</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+    <OutDir>$(SolutionDir)..\bin\</OutDir>
+    <IntDir>$(SolutionDir)..\tmp\$(Platform)\$(Configuration)\</IntDir>
+    <TargetName>$(ProjectName)-$(PlatformShortName)-$(Configuration)</TargetName>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LinkIncremental>false</LinkIncremental>
+    <TargetName>$(ProjectName)-$(PlatformShortName)-$(Configuration)</TargetName>
+    <IntDir>$(SolutionDir)..\tmp\$(Platform)\$(Configuration)\</IntDir>
+    <OutDir>$(SolutionDir)..\bin\</OutDir>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;_CRT_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <SDLCheck>true</SDLCheck>
+      <AdditionalIncludeDirectories>$(SFMLROOT)/include;$(TGUIROOT)/include</AdditionalIncludeDirectories>
+      <BrowseInformation>true</BrowseInformation>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalLibraryDirectories>$(SFMLROOT)/lib;$(TGUIROOT)/lib</AdditionalLibraryDirectories>
+      <AdditionalDependencies>tgui-d.lib;sfml-graphics-d.lib;sfml-system-d.lib;sfml-window-d.lib;sfml-network-d.lib;sfml-audio-d.lib;kernel32.lib;user32.lib;gdi32.lib;winspool.lib;comdlg32.lib;advapi32.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;odbc32.lib;odbccp32.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+    <Bscmake>
+      <PreserveSbr>true</PreserveSbr>
+    </Bscmake>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <SDLCheck>false</SDLCheck>
+      <AdditionalIncludeDirectories>$(SFMLROOT)/include;$(TGUIROOT)/include</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>false</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <AdditionalLibraryDirectories>$(SFMLROOT)/lib;$(TGUIROOT)/lib</AdditionalLibraryDirectories>
+      <AdditionalDependencies>tgui.lib;sfml-graphics.lib;sfml-system.lib;sfml-window.lib;sfml-network.lib;sfml-audio.lib;kernel32.lib;user32.lib;gdi32.lib;winspool.lib;comdlg32.lib;advapi32.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;odbc32.lib;odbccp32.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClInclude Include="../src/stdafx.h" />
+    <ClInclude Include="../src/targetver.h" />
+    <ClInclude Include="..\src\AnimationComponent.h" />
+    <ClInclude Include="..\src\AnimationManager.h" />
+    <ClInclude Include="..\src\AttackState.h" />
+    <ClInclude Include="..\src\BorderComponent.h" />
+    <ClInclude Include="..\src\ChargingStateEnemy.h" />
+    <ClInclude Include="..\src\ChaseStateEnemy.h" />
+    <ClInclude Include="..\src\CircleAroundStateEnemy.h" />
+    <ClInclude Include="..\src\CollisionResolverObserver.h" />
+    <ClInclude Include="..\src\DeathState.h" />
+    <ClInclude Include="..\src\DeathStateEnemy.h" />
+    <ClInclude Include="..\src\Debug.h" />
+    <ClInclude Include="..\src\DirectionalAnimator.h" />
+    <ClInclude Include="..\src\EnemyController.h" />
+    <ClInclude Include="..\src\EnemyLoader.h" />
+    <ClInclude Include="..\src\DespawnComponent.h" />
+    <ClInclude Include="..\src\GameOverState.h" />
+    <ClInclude Include="..\src\GUIHorizontalInputHandler.h" />
+    <ClInclude Include="..\src\GUIVerticalInputHandler.h" />
+    <ClInclude Include="..\src\HealAreaCollisionObserver.h" />
+    <ClInclude Include="..\src\HeroLoader.h" />
+    <ClInclude Include="..\src\HitState.h" />
+    <ClInclude Include="..\src\IdleStateEnemy.h" />
+    <ClInclude Include="..\src\AEnemyState.h" />
+    <ClInclude Include="..\src\MagicbulletCollisionObserver.h" />
+    <ClInclude Include="..\src\MonsterCollisionObserver.h" />
+    <ClInclude Include="..\src\HealthBarComponent.h" />
+    <ClInclude Include="..\src\HealthObserver.h" />
+    <ClInclude Include="..\src\HeroSelectionState.h" />
+    <ClInclude Include="..\src\IdleState.h" />
+    <ClInclude Include="..\src\APlayerState.h" />
+    <ClInclude Include="..\src\MovementState.h" />
+    <ClInclude Include="..\src\PatrolingStateEnemy.h" />
+    <ClInclude Include="..\src\PauseState.h" />
+    <ClInclude Include="..\src\PlayerStatsComponent.h" />
+    <ClInclude Include="..\src\PlayFieldManager.h" />
+    <ClInclude Include="..\src\GameObjectManager.h" />
+    <ClInclude Include="..\src\HumanController.h" />
+    <ClInclude Include="..\src\BoxColliderComponent.h" />
+    <ClInclude Include="..\src\Game.h" />
+    <ClInclude Include="..\src\GameObject.h" />
+    <ClInclude Include="..\src\IComponent.h" />
+    <ClInclude Include="..\src\AController.h" />
+    <ClInclude Include="..\src\IObserverComponent.h" />
+    <ClInclude Include="..\src\IGameState.h" />
+    <ClInclude Include="..\src\GameStateManager.h" />
+    <ClInclude Include="..\src\IGraphicsComponent.h" />
+    <ClInclude Include="..\src\InputManager.h" />
+    <ClInclude Include="..\src\LayerComponent.h" />
+    <ClInclude Include="..\src\MainState.h" />
+    <ClInclude Include="..\src\MenuState.h" />
+    <ClInclude Include="..\src\MovementComponent.h" />
+    <ClInclude Include="..\src\NLTmxMap.h" />
+    <ClInclude Include="..\src\PhysicsManager.h" />
+    <ClInclude Include="..\src\ProjectileCollisionObserver.h" />
+    <ClInclude Include="..\src\ProjectileComponent.h" />
+    <ClInclude Include="..\src\ProjectileSpawner.h" />
+    <ClInclude Include="..\src\rapidxml\rapidxml.hpp" />
+    <ClInclude Include="..\src\rapidxml\rapidxml_iterators.hpp" />
+    <ClInclude Include="..\src\rapidxml\rapidxml_print.hpp" />
+    <ClInclude Include="..\src\rapidxml\rapidxml_utils.hpp" />
+    <ClInclude Include="..\src\RenderManager.h" />
+    <ClInclude Include="..\src\RigidbodyComponent.h" />
+    <ClInclude Include="..\src\SoundManager.h" />
+    <ClInclude Include="..\src\SpriteComponent.h" />
+    <ClInclude Include="..\src\StunnedStateEnemy.h" />
+    <ClInclude Include="..\src\TileMap.h" />
+    <ClInclude Include="..\src\UltimateObserver.h" />
+    <ClInclude Include="..\src\UpdateManager.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="../src/main.cpp" />
+    <ClCompile Include="../src/stdafx.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
+    </ClCompile>
+    <ClCompile Include="..\src\AEnemyState.cpp" />
+    <ClCompile Include="..\src\AnimationComponent.cpp" />
+    <ClCompile Include="..\src\AnimationManager.cpp" />
+    <ClCompile Include="..\src\APlayerState.cpp" />
+    <ClCompile Include="..\src\AttackState.cpp" />
+    <ClCompile Include="..\src\BorderComponent.cpp" />
+    <ClCompile Include="..\src\ChargingStateEnemy.cpp" />
+    <ClCompile Include="..\src\ChaseStateEnemy.cpp" />
+    <ClCompile Include="..\src\CircleAroundStateEnemy.cpp" />
+    <ClCompile Include="..\src\CollisionResolverObserver.cpp" />
+    <ClCompile Include="..\src\DeathState.cpp" />
+    <ClCompile Include="..\src\DeathStateEnemy.cpp" />
+    <ClCompile Include="..\src\DirectionalAnimator.cpp" />
+    <ClCompile Include="..\src\EnemyController.cpp" />
+    <ClCompile Include="..\src\EnemyLoader.cpp" />
+    <ClCompile Include="..\src\DespawnComponent.cpp" />
+    <ClCompile Include="..\src\GameOverState.cpp" />
+    <ClCompile Include="..\src\GUIHorizontalInputHandler.cpp" />
+    <ClCompile Include="..\src\GUIVerticalInputHandler.cpp" />
+    <ClCompile Include="..\src\HealAreaCollisionObserver.cpp" />
+    <ClCompile Include="..\src\HeroLoader.cpp" />
+    <ClCompile Include="..\src\HitState.cpp" />
+    <ClCompile Include="..\src\IdleStateEnemy.cpp" />
+    <ClCompile Include="..\src\MagicBulletCollisionObserver.cpp" />
+    <ClCompile Include="..\src\MonsterCollisionObserver.cpp" />
+    <ClCompile Include="..\src\HealthBarComponent.cpp" />
+    <ClCompile Include="..\src\HealthObserver.cpp" />
+    <ClCompile Include="..\src\HeroSelectionState.cpp" />
+    <ClCompile Include="..\src\IdleState.cpp" />
+    <ClCompile Include="..\src\MovementState.cpp" />
+    <ClCompile Include="..\src\PatrolingStateEnemy.cpp" />
+    <ClCompile Include="..\src\PauseState.cpp" />
+    <ClCompile Include="..\src\PlayerStatsComponent.cpp" />
+    <ClCompile Include="..\src\PlayFieldManager.cpp" />
+    <ClCompile Include="..\src\GameObjectManager.cpp" />
+    <ClCompile Include="..\src\HumanController.cpp" />
+    <ClCompile Include="..\src\BoxColliderComponent.cpp" />
+    <ClCompile Include="..\src\Game.cpp" />
+    <ClCompile Include="..\src\GameObject.cpp" />
+    <ClCompile Include="..\src\GameStateManager.cpp" />
+    <ClCompile Include="..\src\AController.cpp" />
+    <ClCompile Include="..\src\IGraphicsComponent.cpp" />
+    <ClCompile Include="..\src\InputManager.cpp" />
+    <ClCompile Include="..\src\LayerComponent.cpp" />
+    <ClCompile Include="..\src\MainState.cpp" />
+    <ClCompile Include="..\src\MenuState.cpp" />
+    <ClCompile Include="..\src\MovementComponent.cpp" />
+    <ClCompile Include="..\src\NLTmxMap.cpp" />
+    <ClCompile Include="..\src\PhysicsManager.cpp" />
+    <ClCompile Include="..\src\ProjectileCollisionObserver.cpp" />
+    <ClCompile Include="..\src\ProjectileComponent.cpp" />
+    <ClCompile Include="..\src\ProjectileSpawner.cpp" />
+    <ClCompile Include="..\src\RenderManager.cpp" />
+    <ClCompile Include="..\src\RigidbodyComponent.cpp" />
+    <ClCompile Include="..\src\SoundManager.cpp" />
+    <ClCompile Include="..\src\SpriteComponent.cpp" />
+    <ClCompile Include="..\src\StunnedStateEnemy.cpp" />
+    <ClCompile Include="..\src\TileMap.cpp" />
+    <ClCompile Include="..\src\UltimateObserver.cpp" />
+    <ClCompile Include="..\src\UpdateManager.cpp" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>
