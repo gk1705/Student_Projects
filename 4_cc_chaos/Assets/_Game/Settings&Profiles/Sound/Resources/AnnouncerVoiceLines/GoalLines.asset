@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26ef4153decbdc847960c9483d97f858, type: 3}
+  m_Name: GoalLines
+  m_EditorClassIdentifier: 
+  voiceLines:
+  - Expression: 
+    audioClip: {fileID: 8300000, guid: 4d49bb40c3d0b6346b58af45057ae3cb, type: 3}
+    volume: 1
+    pitch: 1
+  - Expression: 
+    audioClip: {fileID: 8300000, guid: 90322a7167df86d4ba13fa283326c724, type: 3}
+    volume: 1
+    pitch: 1
+  - Expression: 
+    audioClip: {fileID: 8300000, guid: eed3bf9e72c164c45abe2af839c86fe0, type: 3}
+    volume: 1
+    pitch: 1
+  - Expression: 
+    audioClip: {fileID: 8300000, guid: 845af6fae9aea174cb987d9f919b7801, type: 3}
+    volume: 1
+    pitch: 1
+  - Expression: 
+    audioClip: {fileID: 8300000, guid: c6225378f726cf4458e7f871dc98dea7, type: 3}
+    volume: 0
+    pitch: 0.1
+  - Expression: 
+    audioClip: {fileID: 8300000, guid: 7b488e2cf6ed2044fad9370e308f4d6b, type: 3}
+    volume: 0
+    pitch: 0.1
+  - Expression: 
+    audioClip: {fileID: 8300000, guid: 2098359db2435874db3c46f6a1cc097c, type: 3}
+    volume: 0
+    pitch: 0.1
+  - Expression: 
+    audioClip: {fileID: 8300000, guid: e8d91908ddeb5f04194662939c43b248, type: 3}
+    volume: 0
+    pitch: 0.1
+  - Expression: 
+    audioClip: {fileID: 8300000, guid: f5df72d1e73d00843bd901380f59db32, type: 3}
+    volume: 0
+    pitch: 0.1
+  - Expression: 
+    audioClip: {fileID: 8300000, guid: 7f8dad8a97258394980ddd5ed50f29c2, type: 3}
+    volume: 0
+    pitch: 0.1
+  - Expression: 
+    audioClip: {fileID: 8300000, guid: c0a769aa2ef439940b5923cefbb2d5eb, type: 3}
+    volume: 0
+    pitch: 0.1
+  - Expression: 
+    audioClip: {fileID: 8300000, guid: e729fa122e47e8a4a9d57de2b2bf1f90, type: 3}
+    volume: 0
+    pitch: 0.1
+  - Expression: 
+    audioClip: {fileID: 8300000, guid: c8df1ba6c40c3304eaca97e4f7ec9d20, type: 3}
+    volume: 0
+    pitch: 0.1

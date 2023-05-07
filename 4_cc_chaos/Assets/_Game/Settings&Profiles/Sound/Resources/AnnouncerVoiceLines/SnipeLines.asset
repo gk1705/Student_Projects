@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26ef4153decbdc847960c9483d97f858, type: 3}
+  m_Name: SnipeLines
+  m_EditorClassIdentifier: 
+  voiceLines:
+  - Expression: 
+    audioClip: {fileID: 8300000, guid: 032bd7063c6b5034e96bd6a3342307a9, type: 3}
+    volume: 1
+    pitch: 1
+  - Expression: 
+    audioClip: {fileID: 8300000, guid: 96b2dfccc0522de44bc8642c2437a828, type: 3}
+    volume: 1
+    pitch: 1
+  - Expression: 
+    audioClip: {fileID: 8300000, guid: 84d8bbb8c26454e4d87fbd6cde88e32b, type: 3}
+    volume: 1
+    pitch: 1
+  - Expression: 
+    audioClip: {fileID: 8300000, guid: 0d78032f800d7ca40806e9aae24ae434, type: 3}
+    volume: 1
+    pitch: 1
+  - Expression: 
+    audioClip: {fileID: 8300000, guid: e2a74420899a7124cb9fbd771e98ad88, type: 3}
+    volume: 1
+    pitch: 1
+  - Expression: 
+    audioClip: {fileID: 8300000, guid: 1341020df2e83ad499ede957e39f3ae8, type: 3}
+    volume: 1
+    pitch: 1
+  - Expression: 
+    audioClip: {fileID: 8300000, guid: 949298cbcb6df5c48a769cc11685d8ca, type: 3}
+    volume: 1
+    pitch: 1
+  - Expression: 
+    audioClip: {fileID: 8300000, guid: db0c945a56da62e4d9b16711c24fdfb5, type: 3}
+    volume: 1
+    pitch: 1

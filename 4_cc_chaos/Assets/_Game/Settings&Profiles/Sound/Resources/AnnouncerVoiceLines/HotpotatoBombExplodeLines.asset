@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26ef4153decbdc847960c9483d97f858, type: 3}
+  m_Name: HotpotatoBombExplodeLines
+  m_EditorClassIdentifier: 
+  voiceLines:
+  - Expression: 
+    audioClip: {fileID: 8300000, guid: 6635e14a6c02f0e4e84fb1d5dd9f370e, type: 3}
+    volume: 1
+    pitch: 1
+  - Expression: 
+    audioClip: {fileID: 8300000, guid: 0ea9755d78b62bf48a0a49c6ddcaf9b6, type: 3}
+    volume: 1
+    pitch: 1
+  - Expression: 
+    audioClip: {fileID: 8300000, guid: a0558a12de74ddf448b036b87b669348, type: 3}
+    volume: 1
+    pitch: 1
+  - Expression: 
+    audioClip: {fileID: 8300000, guid: b9262c3fa3e764e498a7f3636b61c7c1, type: 3}
+    volume: 1
+    pitch: 1
+  - Expression: 
+    audioClip: {fileID: 8300000, guid: 92bc83590e3a54947a24de04a66bc120, type: 3}
+    volume: 1
+    pitch: 1
+  - Expression: 
+    audioClip: {fileID: 8300000, guid: bc275be586189a1449cdcb043d054793, type: 3}
+    volume: 1
+    pitch: 1
+  - Expression: 
+    audioClip: {fileID: 8300000, guid: a7bd05825aae82e4c8faccf6accfb689, type: 3}
+    volume: 1
+    pitch: 1
+  - Expression: 
+    audioClip: {fileID: 8300000, guid: 26e610e8043045948b7530359054cf47, type: 3}
+    volume: 1
+    pitch: 1
+  - Expression: 
+    audioClip: {fileID: 8300000, guid: 2ad66360d1df5334b83d18544fe1731e, type: 3}
+    volume: 1
+    pitch: 1
+  - Expression: 
+    audioClip: {fileID: 8300000, guid: 90bed52f9c55d4440924a8306f6eed0b, type: 3}
+    volume: 1
+    pitch: 1

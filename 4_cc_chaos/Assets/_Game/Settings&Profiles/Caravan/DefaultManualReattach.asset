@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbd3de6a4d293b947b5a8d761c150bf7, type: 3}
+  m_Name: DefaultManualReattach
+  m_EditorClassIdentifier: 
+  LaunchSpeed: 60
+  ReattachDelay: 0.3
+  MinLaunchForce: 1500
+  MinForceThreshold: 5
+  ManualReattach: 1
+  ReattachDistance: 14
+  BaseDamage: 0.9
+  DetachMultiplier: 2
+  MinVelocity: 3
+  CollisionCooldown: 0.2

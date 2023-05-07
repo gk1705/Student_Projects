@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fe9cb1e9dfc50c4b94e0fccf981a1c4, type: 3}
+  m_Name: HotPotato
+  m_EditorClassIdentifier: 
+  Name: Hot Potato
+  GameModeIdentifier: 2
+  SceneToLoad: FirstLevelPotato
+  DrivingProfile: {fileID: 11400000, guid: bf78498a0d738b24a89d4b9295913f23, type: 2}
+  CaravanProfile: {fileID: 11400000, guid: e17f0103cd1bfeb418305602868b1dc8, type: 2}
+  AllowDecorations: 0
+  playerHealth: 1000
+  SpawnBehaviour: {fileID: 11400000, guid: f3e2c70854a450f458ffbd244b1d35eb, type: 2}
+  rankingMode: 2
+  DeathEffects: {fileID: 11400000, guid: 40b75a0c73cf31042bc00f6045c40997, type: 2}
+  AllowBots: 1
+  BotDifficulty: {fileID: 11400000, guid: 84910ea98de09c641ad92416e3736b5d, type: 2}

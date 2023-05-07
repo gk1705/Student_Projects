@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fe9cb1e9dfc50c4b94e0fccf981a1c4, type: 3}
+  m_Name: DeathRace
+  m_EditorClassIdentifier: 
+  Name: Death Race
+  GameModeIdentifier: 3
+  SceneToLoad: DeathRace
+  DrivingProfile: {fileID: 11400000, guid: 45824795fdb5e2744bc0d6e24fefabb5, type: 2}
+  CaravanProfile: {fileID: 11400000, guid: e17f0103cd1bfeb418305602868b1dc8, type: 2}
+  AllowDecorations: 1
+  playerHealth: 1000
+  SpawnBehaviour: {fileID: 11400000, guid: a64dc485e18d99d4e82f0cb218c3131a, type: 2}
+  rankingMode: 0
+  DeathEffects: {fileID: 11400000, guid: bdb416949c0832a44a53510dac57a9d6, type: 2}
+  AllowBots: 0
+  BotDifficulty: {fileID: 11400000, guid: 84910ea98de09c641ad92416e3736b5d, type: 2}

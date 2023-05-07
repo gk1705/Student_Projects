@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26ef4153decbdc847960c9483d97f858, type: 3}
+  m_Name: TwoTakedownLines
+  m_EditorClassIdentifier: 
+  voiceLines:
+  - Expression: 
+    audioClip: {fileID: 8300000, guid: 6e1054a7ffc55304dab5bc8075ceddc2, type: 3}
+    volume: 1
+    pitch: 1
+  - Expression: 
+    audioClip: {fileID: 8300000, guid: a54969915b0582b4bb1e904fe63d9bbd, type: 3}
+    volume: 1
+    pitch: 1
+  - Expression: 
+    audioClip: {fileID: 8300000, guid: e729fa122e47e8a4a9d57de2b2bf1f90, type: 3}
+    volume: 1
+    pitch: 1
+  - Expression: 
+    audioClip: {fileID: 8300000, guid: c8df1ba6c40c3304eaca97e4f7ec9d20, type: 3}
+    volume: 1
+    pitch: 1
+  - Expression: 
+    audioClip: {fileID: 8300000, guid: 254b8976545ed814988387ef8a3f9d22, type: 3}
+    volume: 1
+    pitch: 1

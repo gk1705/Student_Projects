@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26ef4153decbdc847960c9483d97f858, type: 3}
+  m_Name: TakedownLines
+  m_EditorClassIdentifier: 
+  voiceLines:
+  - Expression: 
+    audioClip: {fileID: 8300000, guid: e95b2b360d8677340a37ee7c829cec39, type: 3}
+    volume: 1
+    pitch: 1
+  - Expression: 
+    audioClip: {fileID: 8300000, guid: 18d64e75718dc324eb0ca050a449a0cf, type: 3}
+    volume: 1
+    pitch: 1
+  - Expression: 
+    audioClip: {fileID: 8300000, guid: 0d5d6fed4817175449fb8051c4f0c42c, type: 3}
+    volume: 1
+    pitch: 1
+  - Expression: 
+    audioClip: {fileID: 8300000, guid: de014154b1e46b0428bd5ffd6c8906c7, type: 3}
+    volume: 1
+    pitch: 1
+  - Expression: 
+    audioClip: {fileID: 8300000, guid: 2cf7ddfbc45e6aa439b5a4ac101254f0, type: 3}
+    volume: 1
+    pitch: 1
+  - Expression: 
+    audioClip: {fileID: 8300000, guid: 15210e0274a26254bb2273ebe9a2b3e0, type: 3}
+    volume: 1
+    pitch: 1
+  - Expression: 
+    audioClip: {fileID: 8300000, guid: 37b807781672d70448fee9022923c5f6, type: 3}
+    volume: 1
+    pitch: 1
+  - Expression: 
+    audioClip: {fileID: 8300000, guid: 7b488e2cf6ed2044fad9370e308f4d6b, type: 3}
+    volume: 1
+    pitch: 1
+  - Expression: 
+    audioClip: {fileID: 8300000, guid: 2098359db2435874db3c46f6a1cc097c, type: 3}
+    volume: 1
+    pitch: 1
+  - Expression: 
+    audioClip: {fileID: 8300000, guid: 43660066d37292044a85f1058ac35da9, type: 3}
+    volume: 1
+    pitch: 1
+  - Expression: 
+    audioClip: {fileID: 8300000, guid: c5f23870d8e9609448e5a18e5b25c298, type: 3}
+    volume: 1
+    pitch: 1

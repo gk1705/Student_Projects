@@ -1,0 +1,208 @@
+fileFormatVersion: 2
+guid: 986d7b8797a7da14586eec960962be37
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Ladder_01_mesh_cell
+    100004: Ladder_01_mesh_cell_001
+    100006: Ladder_01_mesh_cell_002
+    100008: Ladder_01_mesh_cell_003
+    100010: Ladder_01_mesh_cell_004
+    100012: Ladder_01_mesh_cell_005
+    100014: Ladder_01_mesh_cell_006
+    100016: Ladder_01_mesh_cell_007
+    100018: Ladder_01_mesh_cell_008
+    100020: Ladder_01_mesh_cell_009
+    100022: Ladder_01_mesh_cell_010
+    100024: Ladder_01_mesh_cell_011
+    100026: Ladder_01_mesh_cell_012
+    100028: Ladder_01_mesh_cell_013
+    100030: Ladder_01_mesh_cell_014
+    100032: Ladder_01_mesh_cell_015
+    100034: Ladder_01_mesh_cell_016
+    100036: Ladder_01_mesh_cell_017
+    100038: Ladder_01_mesh_cell_018
+    100040: Ladder_01_mesh_cell_019
+    400000: //RootNode
+    400002: Ladder_01_mesh_cell
+    400004: Ladder_01_mesh_cell_001
+    400006: Ladder_01_mesh_cell_002
+    400008: Ladder_01_mesh_cell_003
+    400010: Ladder_01_mesh_cell_004
+    400012: Ladder_01_mesh_cell_005
+    400014: Ladder_01_mesh_cell_006
+    400016: Ladder_01_mesh_cell_007
+    400018: Ladder_01_mesh_cell_008
+    400020: Ladder_01_mesh_cell_009
+    400022: Ladder_01_mesh_cell_010
+    400024: Ladder_01_mesh_cell_011
+    400026: Ladder_01_mesh_cell_012
+    400028: Ladder_01_mesh_cell_013
+    400030: Ladder_01_mesh_cell_014
+    400032: Ladder_01_mesh_cell_015
+    400034: Ladder_01_mesh_cell_016
+    400036: Ladder_01_mesh_cell_017
+    400038: Ladder_01_mesh_cell_018
+    400040: Ladder_01_mesh_cell_019
+    2100000: Rope
+    2100002: Wood
+    2300000: Ladder_01_mesh_cell
+    2300002: Ladder_01_mesh_cell_001
+    2300004: Ladder_01_mesh_cell_002
+    2300006: Ladder_01_mesh_cell_003
+    2300008: Ladder_01_mesh_cell_004
+    2300010: Ladder_01_mesh_cell_005
+    2300012: Ladder_01_mesh_cell_006
+    2300014: Ladder_01_mesh_cell_007
+    2300016: Ladder_01_mesh_cell_008
+    2300018: Ladder_01_mesh_cell_009
+    2300020: Ladder_01_mesh_cell_010
+    2300022: Ladder_01_mesh_cell_011
+    2300024: Ladder_01_mesh_cell_012
+    2300026: Ladder_01_mesh_cell_013
+    2300028: Ladder_01_mesh_cell_014
+    2300030: Ladder_01_mesh_cell_015
+    2300032: Ladder_01_mesh_cell_016
+    2300034: Ladder_01_mesh_cell_017
+    2300036: Ladder_01_mesh_cell_018
+    2300038: Ladder_01_mesh_cell_019
+    3300000: Ladder_01_mesh_cell
+    3300002: Ladder_01_mesh_cell_001
+    3300004: Ladder_01_mesh_cell_002
+    3300006: Ladder_01_mesh_cell_003
+    3300008: Ladder_01_mesh_cell_004
+    3300010: Ladder_01_mesh_cell_005
+    3300012: Ladder_01_mesh_cell_006
+    3300014: Ladder_01_mesh_cell_007
+    3300016: Ladder_01_mesh_cell_008
+    3300018: Ladder_01_mesh_cell_009
+    3300020: Ladder_01_mesh_cell_010
+    3300022: Ladder_01_mesh_cell_011
+    3300024: Ladder_01_mesh_cell_012
+    3300026: Ladder_01_mesh_cell_013
+    3300028: Ladder_01_mesh_cell_014
+    3300030: Ladder_01_mesh_cell_015
+    3300032: Ladder_01_mesh_cell_016
+    3300034: Ladder_01_mesh_cell_017
+    3300036: Ladder_01_mesh_cell_018
+    3300038: Ladder_01_mesh_cell_019
+    4300000: Ladder_01_mesh_cell_019
+    4300002: Ladder_01_mesh_cell_018
+    4300004: Ladder_01_mesh_cell_017
+    4300006: Ladder_01_mesh_cell_016
+    4300008: Ladder_01_mesh_cell_015
+    4300010: Ladder_01_mesh_cell_014
+    4300012: Ladder_01_mesh_cell_013
+    4300014: Ladder_01_mesh_cell_012
+    4300016: Ladder_01_mesh_cell_011
+    4300018: Ladder_01_mesh_cell_010
+    4300020: Ladder_01_mesh_cell_009
+    4300022: Ladder_01_mesh_cell_008
+    4300024: Ladder_01_mesh_cell_007
+    4300026: Ladder_01_mesh_cell_006
+    4300028: Ladder_01_mesh_cell_005
+    4300030: Ladder_01_mesh_cell_004
+    4300032: Ladder_01_mesh_cell_003
+    4300034: Ladder_01_mesh_cell_002
+    4300036: Ladder_01_mesh_cell_001
+    4300038: Ladder_01_mesh_cell
+    7400000: Default Take
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rope
+    second: {fileID: 2100000, guid: 31d2ce6101ceb3840879e7f99fd6ef0d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood
+    second: {fileID: 2100000, guid: 31d2ce6101ceb3840879e7f99fd6ef0d, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

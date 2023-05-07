@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 411163888ae3fb74b9ebd22be752449c, type: 3}
+  m_Name: SoundEffects
+  m_EditorClassIdentifier: 
+  soundEffects:
+  - Expression: Takedown
+    audioClip: {fileID: 8300000, guid: 1dc2157c69c3bc5489ee8b526c941058, type: 3}
+    volume: 1
+    pitch: 1
+  - Expression: HeavyHit
+    audioClip: {fileID: 8300000, guid: 6e8fd0c6eae605043b517260ad0dabaf, type: 3}
+    volume: 1
+    pitch: 1
+  - Expression: Wallhit
+    audioClip: {fileID: 8300000, guid: 056c8d1ef063f314399e52bd732af2e4, type: 3}
+    volume: 1
+    pitch: 1
+  - Expression: Snipe
+    audioClip: {fileID: 8300000, guid: 3333e5cd2577d344d919585cb0ab9053, type: 3}
+    volume: 0.209
+    pitch: 1
+  - Expression: Deflect
+    audioClip: {fileID: 8300000, guid: 5e4e2fcd428660346b0c25150b50ad4b, type: 3}
+    volume: 0.1
+    pitch: 0.8

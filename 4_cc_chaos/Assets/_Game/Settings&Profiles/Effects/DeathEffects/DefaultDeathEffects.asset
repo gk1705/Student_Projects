@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cfc283b6ec33ed4890a26aad7f7bf10, type: 3}
+  m_Name: DefaultDeathEffects
+  m_EditorClassIdentifier: 
+  ExplodeCar: 1
+  ExplodeCaravan: 1
+  ExploderProfile: {fileID: 11400000, guid: 2331d05e88861c04c8d52f4d56bfbd4c, type: 2}
+  ScreenShake: 1
+  ScreenShakeProfile: {fileID: 11400000, guid: fa6e2c016f861ca4fa5b72b799f5283e, type: 2}
+  SlowMo: 1
+  SlowMoProfile: {fileID: 11400000, guid: a53706705bca03e458b0589d76675e3a, type: 2}
+  PlayEndSlowMo: 1
+  GameEndSlowMo: {fileID: 11400000, guid: ef8fdcdcf3850744c8151d9cf0b63dad, type: 2}
+  ControllerShake: 1
+  ControllerShakeProfile: {fileID: 11400000, guid: 27d65a6d093719046bd2890acb363ffc,
+    type: 2}

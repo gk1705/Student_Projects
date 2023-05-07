@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Game/Scenes/MainMenu.unity
+    guid: 9d487b90c0b5bf544901e18be4c9f74b
+  - enabled: 1
+    path: Assets/_Game/Scenes/Lobby.unity
+    guid: ba72162bcbffb7244b8b4208a8c70fa0
+  - enabled: 1
+    path: Assets/_Game/Scenes/Testbed/MikeExperiments.unity
+    guid: 263a59dd59b9f274db0fef106951e987
+  - enabled: 0
+    path: Assets/_Game/Scenes/Testbed/DaniExperiments.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 0
+    path: Assets/_Game/Scenes/Testbed/GabeExperiments.unity
+    guid: 16a1b1b4dafbf214c86b278d4e389f6c
+  - enabled: 1
+    path: Assets/_Game/Scenes/GameModes/FirstLevel.unity
+    guid: 5a847e323e02ae44b8b260d2c5b712b0
+  - enabled: 1
+    path: Assets/_Game/Scenes/GameModes/FirstLevelManual.unity
+    guid: 7a7a990d1316f494bb1bee5aa141590f
+  - enabled: 1
+    path: Assets/_Game/Scenes/GameModes/FirstLevelPotato.unity
+    guid: dd0d68efa7181b4468efdf4c7e56deec
+  - enabled: 1
+    path: Assets/_Game/Scenes/Testbed/SoundExperiment.unity
+    guid: 8764f27263a8abc4aa93511e6eb35699
+  - enabled: 1
+    path: Assets/_Game/Scenes/Sandbox.unity
+    guid: 949a53cd6b877734caa9043ae11719c0
+  - enabled: 1
+    path: Assets/_Game/Scenes/GameModes/DeathRace.unity
+    guid: ad08a0a970e70f847b51e18da1c84bc9
+  - enabled: 1
+    path: Assets/_Game/Scenes/Results.unity
+    guid: f8c940946ddc99448999378f3b90ef74
+  - enabled: 1
+    path: Assets/_Game/Scenes/GameModes/FirstLevelSoccer.unity
+    guid: 9071f8f7922f2ef4580c7fe5b48725ee
+  m_configObjects: {}

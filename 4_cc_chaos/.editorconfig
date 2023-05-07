@@ -1,0 +1,16 @@
+### CONFIG ###
+root = true
+
+### LINE ENDINGS ###
+[*]
+insert_final_newline = true
+trim_trailing_whitespace = true
+
+### INDENTATION ###
+# 4 space indentation
+[*.cs]
+indent_style = tab
+indent_size = 4
+
+### ENCODING ###
+charset = utf-8

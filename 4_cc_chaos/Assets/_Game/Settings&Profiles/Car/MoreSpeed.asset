@@ -1,0 +1,149 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1e70d6ca565d874f8bf1ad5ee8f14ab, type: 3}
+  m_Name: MoreSpeed
+  m_EditorClassIdentifier: 
+  VelocityLimit: 40
+  ForwardAcceleration: 1
+  BackwardAcceleration: 1
+  AngularVelocityLimit: 2.8
+  TurnSpeed: 0.65
+  AngularReduction: 1.2
+  TurningThresholdVelocity: 20
+  InvertBackwardsSteering: 1
+  SteeringCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: -1.0088515
+      value: 1.0008097
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 136
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 3.5
+      value: -0.0032529852
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 136
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 7.9738216
+      value: 0.004085938
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 136
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  TractionForce: 4
+  MaxLocalCounterVelocity: 40
+  GroundedDrag: 1
+  TractionCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1.0018921
+      inSlope: -0.50418943
+      outSlope: -0.50418943
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.33931985
+      value: 0.8308106
+      inSlope: -0.60391873
+      outSlope: -0.60391873
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.1463452
+      outWeight: 1
+    - serializedVersion: 3
+      time: 0.7006854
+      value: 0.49231175
+      inSlope: -2.0101311
+      outSlope: -2.0101311
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.13935106
+    - serializedVersion: 3
+      time: 0.99839795
+      value: 0.094235584
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  GroundTractionCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: -1
+      value: 0
+      inSlope: 0.014367131
+      outSlope: 0.014367131
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.6265674
+    - serializedVersion: 3
+      time: -0
+      value: 0.00025491416
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.12989573
+      outWeight: 0.16922404
+    - serializedVersion: 3
+      time: 0.001822859
+      value: 1.0001819
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.23041055
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: -0.00018224558
+      outSlope: -0.00018224558
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  HoverForce: 3
+  HoverHeight: 0.6
+  SpringCoefficient: 4
+  DampingCoefficient: 0.8
+  AirAccelerationReduction: 10
+  AirTurningReduction: 100000
+  AirDrag: 0
