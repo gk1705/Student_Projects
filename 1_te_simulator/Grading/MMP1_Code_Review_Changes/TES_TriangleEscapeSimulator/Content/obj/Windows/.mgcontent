@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Gab/Desktop/koidl_mmp1/MMP1_Code_Review_Changes/TES_TriangleEscapeSimulator/Content/MainMenu.png</File>
+    <File>C:/Users/Gab/Desktop/koidl_mmp1/MMP1_Code_Review_Changes/TES_TriangleEscapeSimulator/Content/ButtonPlay.png</File>
+    <File>C:/Users/Gab/Desktop/koidl_mmp1/MMP1_Code_Review_Changes/TES_TriangleEscapeSimulator/Content/ButtonCredits.png</File>
+    <File>C:/Users/Gab/Desktop/koidl_mmp1/MMP1_Code_Review_Changes/TES_TriangleEscapeSimulator/Content/ButtonMenu.png</File>
+    <File>C:/Users/Gab/Desktop/koidl_mmp1/MMP1_Code_Review_Changes/TES_TriangleEscapeSimulator/Content/switchClose.png</File>
+    <File>C:/Users/Gab/Desktop/koidl_mmp1/MMP1_Code_Review_Changes/TES_TriangleEscapeSimulator/Content/switchOpen.png</File>
+    <File>C:/Users/Gab/Desktop/koidl_mmp1/MMP1_Code_Review_Changes/TES_TriangleEscapeSimulator/Content/Credits.png</File>
+    <File>C:/Users/Gab/Desktop/koidl_mmp1/MMP1_Code_Review_Changes/TES_TriangleEscapeSimulator/Content/pscreen.png</File>
+    <File>C:/Users/Gab/Desktop/koidl_mmp1/MMP1_Code_Review_Changes/TES_TriangleEscapeSimulator/Content/goscreen.png</File>
+    <File>C:/Users/Gab/Desktop/koidl_mmp1/MMP1_Code_Review_Changes/TES_TriangleEscapeSimulator/Content/Fonts/PandoraLimiter.spritefont</File>
+    <File>C:/Users/Gab/Desktop/koidl_mmp1/MMP1_Code_Review_Changes/TES_TriangleEscapeSimulator/Content/exitClose.png</File>
+    <File>C:/Users/Gab/Desktop/koidl_mmp1/MMP1_Code_Review_Changes/TES_TriangleEscapeSimulator/Content/ExitOpen.png</File>
+    <File>C:/Users/Gab/Desktop/koidl_mmp1/MMP1_Code_Review_Changes/TES_TriangleEscapeSimulator/Content/switchoff.png</File>
+    <File>C:/Users/Gab/Desktop/koidl_mmp1/MMP1_Code_Review_Changes/TES_TriangleEscapeSimulator/Content/switchon.png</File>
+    <File>C:/Users/Gab/Desktop/koidl_mmp1/MMP1_Code_Review_Changes/TES_TriangleEscapeSimulator/Content/Credits_finished.png</File>
+    <File>C:/Users/Gab/Desktop/koidl_mmp1/MMP1_Code_Review_Changes/TES_TriangleEscapeSimulator/Content/BloomCombine.fx</File>
+    <File>C:/Users/Gab/Desktop/koidl_mmp1/MMP1_Code_Review_Changes/TES_TriangleEscapeSimulator/Content/BloomExtract.fx</File>
+    <File>C:/Users/Gab/Desktop/koidl_mmp1/MMP1_Code_Review_Changes/TES_TriangleEscapeSimulator/Content/GaussianBlur.fx</File>
+    <File>C:/Users/Gab/Desktop/koidl_mmp1/MMP1_Code_Review_Changes/TES_TriangleEscapeSimulator/Content/Fonts/Timer.spritefont</File>
+    <File>C:/Users/Gab/Desktop/koidl_mmp1/MMP1_Code_Review_Changes/TES_TriangleEscapeSimulator/Content/spikequad.png</File>
+    <File>C:/Users/Gab/Desktop/koidl_mmp1/MMP1_Code_Review_Changes/TES_TriangleEscapeSimulator/Content/key.png</File>
+    <File>C:/Users/Gab/Desktop/koidl_mmp1/MMP1_Code_Review_Changes/TES_TriangleEscapeSimulator/Content/empty.png</File>
+    <File>C:/Users/Gab/Desktop/koidl_mmp1/MMP1_Code_Review_Changes/TES_TriangleEscapeSimulator/Content/spikequad_2.png</File>
+    <File>C:/Users/Gab/Desktop/koidl_mmp1/MMP1_Code_Review_Changes/TES_TriangleEscapeSimulator/Content/spikequad_3.png</File>
+    <File>C:/Users/Gab/Desktop/koidl_mmp1/MMP1_Code_Review_Changes/TES_TriangleEscapeSimulator/Content/tower.png</File>
+    <File>C:/Users/Gab/Desktop/koidl_mmp1/MMP1_Code_Review_Changes/TES_TriangleEscapeSimulator/Content/bullet_real.png</File>
+    <File>C:/Users/Gab/Desktop/koidl_mmp1/MMP1_Code_Review_Changes/TES_TriangleEscapeSimulator/Content/Tile1.png</File>
+    <File>C:/Users/Gab/Desktop/koidl_mmp1/MMP1_Code_Review_Changes/TES_TriangleEscapeSimulator/Content/trianglefinal.png</File>
+    <File>C:/Users/Gab/Desktop/koidl_mmp1/MMP1_Code_Review_Changes/TES_TriangleEscapeSimulator/Content/Tile2.png</File>
+    <File>C:/Users/Gab/Desktop/koidl_mmp1/MMP1_Code_Review_Changes/TES_TriangleEscapeSimulator/Content/ButtonLVL1.png</File>
+    <File>C:/Users/Gab/Desktop/koidl_mmp1/MMP1_Code_Review_Changes/TES_TriangleEscapeSimulator/Content/ButtonLVL2.png</File>
+    <File>C:/Users/Gab/Desktop/koidl_mmp1/MMP1_Code_Review_Changes/TES_TriangleEscapeSimulator/Content/ButtonLVL3.png</File>
+    <File>C:/Users/Gab/Desktop/koidl_mmp1/MMP1_Code_Review_Changes/TES_TriangleEscapeSimulator/Content/ButtonLVL4.png</File>
+    <File>C:/Users/Gab/Desktop/koidl_mmp1/MMP1_Code_Review_Changes/TES_TriangleEscapeSimulator/Content/ButtonLVL5.png</File>
+    <File>C:/Users/Gab/Desktop/koidl_mmp1/MMP1_Code_Review_Changes/TES_TriangleEscapeSimulator/Content/ButtonLVL6.png</File>
+    <File>C:/Users/Gab/Desktop/koidl_mmp1/MMP1_Code_Review_Changes/TES_TriangleEscapeSimulator/Content/Fonts/PandoraLimiter2.spritefont</File>
+    <File>C:/Users/Gab/Desktop/koidl_mmp1/MMP1_Code_Review_Changes/TES_TriangleEscapeSimulator/Content/NameInputBG.png</File>
+    <File>C:/Users/Gab/Desktop/koidl_mmp1/MMP1_Code_Review_Changes/TES_TriangleEscapeSimulator/Content/HowTo.png</File>
+    <File>C:/Users/Gab/Desktop/koidl_mmp1/MMP1_Code_Review_Changes/TES_TriangleEscapeSimulator/Content/ButtonHowTo.png</File>
+  </SourceFiles>
+</SourceFileCollection>

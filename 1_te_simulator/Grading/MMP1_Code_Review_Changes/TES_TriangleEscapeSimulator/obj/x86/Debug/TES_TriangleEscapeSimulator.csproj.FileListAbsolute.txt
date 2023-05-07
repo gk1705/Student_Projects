@@ -1,0 +1,363 @@
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\TES_TriangleEscapeSimulator.exe
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\TES_TriangleEscapeSimulator.pdb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\obj\x86\Debug\TES_TriangleEscapeSimulator.csprojResolveAssemblyReference.cache
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\obj\x86\Debug\TES_TriangleEscapeSimulator.exe
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\obj\x86\Debug\TES_TriangleEscapeSimulator.pdb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\triangle1.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\space.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\bullet.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\obj\x86\Debug\TES_TriangleEscapeSimulator.exe
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\obj\x86\Debug\TES_TriangleEscapeSimulator.pdb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\obj\x86\Debug\TES_TriangleEscapeSimulator.csprojResolveAssemblyReference.cache
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\bullet.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\space.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\triangle1.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\TES_TriangleEscapeSimulator.exe
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\TES_TriangleEscapeSimulator.pdb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\Button.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\MainMenu.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie - Kopie\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\obj\x86\Debug\TES_TriangleEscapeSimulator.exe
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie - Kopie\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\obj\x86\Debug\TES_TriangleEscapeSimulator.pdb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie - Kopie\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\bullet.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie - Kopie\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\MainMenu.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie - Kopie\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\space.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie - Kopie\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\TES_TriangleEscapeSimulator.exe
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie - Kopie\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\TES_TriangleEscapeSimulator.pdb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie - Kopie\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie - Kopie\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie - Kopie\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie - Kopie\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie - Kopie\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie - Kopie\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie - Kopie\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie - Kopie\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie - Kopie\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie - Kopie\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie - Kopie\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie - Kopie\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie - Kopie\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie - Kopie\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie - Kopie\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie - Kopie\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie - Kopie\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie - Kopie\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie - Kopie\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\obj\x86\Debug\TES_TriangleEscapeSimulator.csprojResolveAssemblyReference.cache
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie - Kopie\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\triangle.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie - Kopie\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\Tile3.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie - Kopie\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\pauseplay.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie - Kopie\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\pausequit.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie - Kopie\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\pscreen.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie - Kopie\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\ButtonPlay.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie - Kopie\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\ButtonCredits.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie - Kopie\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\ButtonMenu.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie - Kopie\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\triangle1.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie - Kopie\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\trianglefinal.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie - Kopie\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\exitClose.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie - Kopie\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\exitOpen.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie - Kopie\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\switchClose.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie - Kopie\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\switchOpen.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie - Kopie\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\Credits.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie - Kopie\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\goscreen.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie - Kopie\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\Fonts\PandoraLimiter.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie - Kopie\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\tower.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie - Kopie\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\switchoff.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie - Kopie\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\switchon.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie - Kopie\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\Tutorial.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie - Kopie\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\Tile10.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie - Kopie\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\Tile11.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie - Kopie\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\Tile4.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie - Kopie\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\Tile5.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie - Kopie\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\Tile6.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie - Kopie\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\Tile8.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie - Kopie\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\Tile9.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie - Kopie\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\mo1.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie - Kopie\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\mo2.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie - Kopie\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\mo3.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie - Kopie\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\mo5.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie - Kopie\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\Credits_finished.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie - Kopie\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\Tile2.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie - Kopie\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\Tile7.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie - Kopie\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\Tile12.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie - Kopie\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\Tutorial_1.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie - Kopie\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\Tile1.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie - Kopie\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\Tile20.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie - Kopie\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\Tile40.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie - Kopie\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\Tile50.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Bloom\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\obj\x86\Debug\TES_TriangleEscapeSimulator.exe
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Bloom\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\obj\x86\Debug\TES_TriangleEscapeSimulator.pdb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Bloom\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\BloomCombine.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Bloom\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\BloomExtract.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Bloom\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\ButtonCredits.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Bloom\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\ButtonMenu.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Bloom\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\ButtonPlay.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Bloom\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\Credits.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Bloom\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\Credits_finished.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Bloom\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\exitClose.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Bloom\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\exitOpen.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Bloom\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\GaussianBlur.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Bloom\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\goscreen.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Bloom\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\MainMenu.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Bloom\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\pscreen.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Bloom\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\switchClose.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Bloom\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\switchoff.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Bloom\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\switchon.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Bloom\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\switchOpen.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Bloom\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\Tile1.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Bloom\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\Tile3.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Bloom\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\tower.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Bloom\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\trianglefinal.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Bloom\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\Fonts\PandoraLimiter.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Bloom\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\TES_TriangleEscapeSimulator.exe
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Bloom\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\TES_TriangleEscapeSimulator.pdb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Bloom\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Bloom\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Bloom\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Bloom\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Bloom\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Bloom\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Bloom\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Bloom\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Bloom\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Bloom\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Bloom\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Bloom\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Bloom\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Bloom\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Bloom\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Bloom\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Bloom\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Bloom\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Bloom\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\obj\x86\Debug\TES_TriangleEscapeSimulator.csprojResolveAssemblyReference.cache
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Bloom\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\Fonts\Timer.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Bloom\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\spikequad.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Bloom\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\key.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Bloom\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\empty.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Bloom\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\spikequad_2.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Bloom\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\spikequad_3.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Bloom\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\bullet_real.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\obj\x86\Debug\TES_TriangleEscapeSimulator.exe
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\obj\x86\Debug\TES_TriangleEscapeSimulator.pdb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\BloomCombine.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\BloomExtract.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\bullet_real.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\ButtonCredits.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\ButtonMenu.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\ButtonPlay.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\Credits.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\Credits_finished.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\empty.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\exitClose.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\exitOpen.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\GaussianBlur.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\goscreen.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\key.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\MainMenu.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\pscreen.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\spikequad.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\spikequad_2.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\spikequad_3.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\switchClose.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\switchoff.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\switchon.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\switchOpen.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\Tile1.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\tower.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\trianglefinal.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\Fonts\PandoraLimiter.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\Fonts\Timer.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\TES_TriangleEscapeSimulator.exe
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\TES_TriangleEscapeSimulator.pdb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\TiledSharp.dll
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\TiledSharp.pdb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\obj\x86\Debug\TES_TriangleEscapeSimulator.csprojResolveAssemblyReference.cache
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\Tile2.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\ButtonLVL1.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\ButtonLVL2.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\ButtonLVL3.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\ButtonLVL4.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\ButtonLVL5.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\ButtonLVL6.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\Fonts\PandoraLimiter2.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\NameInputBG.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\HowTo.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie\TES_TriangleEscapeSimulator\obj\x86\Debug\TES_TriangleEscapeSimulator.exe
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie\TES_TriangleEscapeSimulator\obj\x86\Debug\TES_TriangleEscapeSimulator.pdb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\BloomCombine.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\BloomExtract.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\bullet_real.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\ButtonCredits.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\ButtonLVL1.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\ButtonLVL2.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\ButtonLVL3.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\ButtonLVL4.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\ButtonLVL5.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\ButtonLVL6.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\ButtonMenu.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\ButtonPlay.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\Credits.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\Credits_finished.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\empty.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\exitClose.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\exitOpen.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\GaussianBlur.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\goscreen.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\HowTo.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\key.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\MainMenu.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\NameInputBG.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\pscreen.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\spikequad.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\spikequad_2.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\spikequad_3.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\switchClose.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\switchoff.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\switchon.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\switchOpen.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\Tile1.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\Tile2.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\tower.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\trianglefinal.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\Fonts\PandoraLimiter.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\Fonts\PandoraLimiter2.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\Fonts\Timer.xnb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\TES_TriangleEscapeSimulator.exe
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\TES_TriangleEscapeSimulator.pdb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\TiledSharp.dll
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\TiledSharp.pdb
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Gab\Desktop\TES_TriangleEscapeSimulator - Kopie\TES_TriangleEscapeSimulator\obj\x86\Debug\TES_TriangleEscapeSimulator.csprojResolveAssemblyReference.cache
+C:\Users\Gab\Desktop\koidl_mmp1\MMP1_Code_Review_Changes\TES_TriangleEscapeSimulator\obj\x86\Debug\TES_TriangleEscapeSimulator.exe
+C:\Users\Gab\Desktop\koidl_mmp1\MMP1_Code_Review_Changes\TES_TriangleEscapeSimulator\obj\x86\Debug\TES_TriangleEscapeSimulator.pdb
+C:\Users\Gab\Desktop\koidl_mmp1\MMP1_Code_Review_Changes\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\BloomCombine.xnb
+C:\Users\Gab\Desktop\koidl_mmp1\MMP1_Code_Review_Changes\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\BloomExtract.xnb
+C:\Users\Gab\Desktop\koidl_mmp1\MMP1_Code_Review_Changes\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\bullet_real.xnb
+C:\Users\Gab\Desktop\koidl_mmp1\MMP1_Code_Review_Changes\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\ButtonCredits.xnb
+C:\Users\Gab\Desktop\koidl_mmp1\MMP1_Code_Review_Changes\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\ButtonLVL1.xnb
+C:\Users\Gab\Desktop\koidl_mmp1\MMP1_Code_Review_Changes\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\ButtonLVL2.xnb
+C:\Users\Gab\Desktop\koidl_mmp1\MMP1_Code_Review_Changes\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\ButtonLVL3.xnb
+C:\Users\Gab\Desktop\koidl_mmp1\MMP1_Code_Review_Changes\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\ButtonLVL4.xnb
+C:\Users\Gab\Desktop\koidl_mmp1\MMP1_Code_Review_Changes\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\ButtonLVL5.xnb
+C:\Users\Gab\Desktop\koidl_mmp1\MMP1_Code_Review_Changes\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\ButtonLVL6.xnb
+C:\Users\Gab\Desktop\koidl_mmp1\MMP1_Code_Review_Changes\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\ButtonMenu.xnb
+C:\Users\Gab\Desktop\koidl_mmp1\MMP1_Code_Review_Changes\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\ButtonPlay.xnb
+C:\Users\Gab\Desktop\koidl_mmp1\MMP1_Code_Review_Changes\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\Credits.xnb
+C:\Users\Gab\Desktop\koidl_mmp1\MMP1_Code_Review_Changes\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\Credits_finished.xnb
+C:\Users\Gab\Desktop\koidl_mmp1\MMP1_Code_Review_Changes\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\empty.xnb
+C:\Users\Gab\Desktop\koidl_mmp1\MMP1_Code_Review_Changes\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\exitClose.xnb
+C:\Users\Gab\Desktop\koidl_mmp1\MMP1_Code_Review_Changes\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\exitOpen.xnb
+C:\Users\Gab\Desktop\koidl_mmp1\MMP1_Code_Review_Changes\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\GaussianBlur.xnb
+C:\Users\Gab\Desktop\koidl_mmp1\MMP1_Code_Review_Changes\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\goscreen.xnb
+C:\Users\Gab\Desktop\koidl_mmp1\MMP1_Code_Review_Changes\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\HowTo.xnb
+C:\Users\Gab\Desktop\koidl_mmp1\MMP1_Code_Review_Changes\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\key.xnb
+C:\Users\Gab\Desktop\koidl_mmp1\MMP1_Code_Review_Changes\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\MainMenu.xnb
+C:\Users\Gab\Desktop\koidl_mmp1\MMP1_Code_Review_Changes\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\NameInputBG.xnb
+C:\Users\Gab\Desktop\koidl_mmp1\MMP1_Code_Review_Changes\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\pscreen.xnb
+C:\Users\Gab\Desktop\koidl_mmp1\MMP1_Code_Review_Changes\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\spikequad.xnb
+C:\Users\Gab\Desktop\koidl_mmp1\MMP1_Code_Review_Changes\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\spikequad_2.xnb
+C:\Users\Gab\Desktop\koidl_mmp1\MMP1_Code_Review_Changes\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\spikequad_3.xnb
+C:\Users\Gab\Desktop\koidl_mmp1\MMP1_Code_Review_Changes\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\switchClose.xnb
+C:\Users\Gab\Desktop\koidl_mmp1\MMP1_Code_Review_Changes\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\switchoff.xnb
+C:\Users\Gab\Desktop\koidl_mmp1\MMP1_Code_Review_Changes\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\switchon.xnb
+C:\Users\Gab\Desktop\koidl_mmp1\MMP1_Code_Review_Changes\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\switchOpen.xnb
+C:\Users\Gab\Desktop\koidl_mmp1\MMP1_Code_Review_Changes\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\Tile1.xnb
+C:\Users\Gab\Desktop\koidl_mmp1\MMP1_Code_Review_Changes\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\Tile2.xnb
+C:\Users\Gab\Desktop\koidl_mmp1\MMP1_Code_Review_Changes\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\tower.xnb
+C:\Users\Gab\Desktop\koidl_mmp1\MMP1_Code_Review_Changes\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\trianglefinal.xnb
+C:\Users\Gab\Desktop\koidl_mmp1\MMP1_Code_Review_Changes\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\Fonts\PandoraLimiter.xnb
+C:\Users\Gab\Desktop\koidl_mmp1\MMP1_Code_Review_Changes\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\Fonts\PandoraLimiter2.xnb
+C:\Users\Gab\Desktop\koidl_mmp1\MMP1_Code_Review_Changes\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\Fonts\Timer.xnb
+C:\Users\Gab\Desktop\koidl_mmp1\MMP1_Code_Review_Changes\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\TES_TriangleEscapeSimulator.exe
+C:\Users\Gab\Desktop\koidl_mmp1\MMP1_Code_Review_Changes\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\TES_TriangleEscapeSimulator.pdb
+C:\Users\Gab\Desktop\koidl_mmp1\MMP1_Code_Review_Changes\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Gab\Desktop\koidl_mmp1\MMP1_Code_Review_Changes\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\TiledSharp.dll
+C:\Users\Gab\Desktop\koidl_mmp1\MMP1_Code_Review_Changes\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Gab\Desktop\koidl_mmp1\MMP1_Code_Review_Changes\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Gab\Desktop\koidl_mmp1\MMP1_Code_Review_Changes\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Gab\Desktop\koidl_mmp1\MMP1_Code_Review_Changes\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Gab\Desktop\koidl_mmp1\MMP1_Code_Review_Changes\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Gab\Desktop\koidl_mmp1\MMP1_Code_Review_Changes\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Gab\Desktop\koidl_mmp1\MMP1_Code_Review_Changes\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Gab\Desktop\koidl_mmp1\MMP1_Code_Review_Changes\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Gab\Desktop\koidl_mmp1\MMP1_Code_Review_Changes\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\TiledSharp.pdb
+C:\Users\Gab\Desktop\koidl_mmp1\MMP1_Code_Review_Changes\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Gab\Desktop\koidl_mmp1\MMP1_Code_Review_Changes\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Gab\Desktop\koidl_mmp1\MMP1_Code_Review_Changes\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Gab\Desktop\koidl_mmp1\MMP1_Code_Review_Changes\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Gab\Desktop\koidl_mmp1\MMP1_Code_Review_Changes\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Gab\Desktop\koidl_mmp1\MMP1_Code_Review_Changes\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Gab\Desktop\koidl_mmp1\MMP1_Code_Review_Changes\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Gab\Desktop\koidl_mmp1\MMP1_Code_Review_Changes\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Gab\Desktop\koidl_mmp1\MMP1_Code_Review_Changes\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Gab\Desktop\koidl_mmp1\MMP1_Code_Review_Changes\TES_TriangleEscapeSimulator\obj\x86\Debug\TES_TriangleEscapeSimulator.csprojResolveAssemblyReference.cache
+C:\Users\Gab\Desktop\koidl_mmp1\MMP1_Code_Review_Changes\TES_TriangleEscapeSimulator\bin\Windows\x86\Debug\Content\ButtonHowTo.xnb

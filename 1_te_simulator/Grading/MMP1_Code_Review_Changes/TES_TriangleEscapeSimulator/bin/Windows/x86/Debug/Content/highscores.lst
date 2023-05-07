@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<HighScoreData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <playerName>
+    <string>Gab</string>
+    <string>Ben</string>
+    <string>Stefan</string>
+  </playerName>
+  <time>
+    <float>79</float>
+    <float>84</float>
+    <float>91</float>
+  </time>
+  <distance>
+    <int>217</int>
+    <int>301</int>
+    <int>305</int>
+  </distance>
+  <count>3</count>
+</HighScoreData>

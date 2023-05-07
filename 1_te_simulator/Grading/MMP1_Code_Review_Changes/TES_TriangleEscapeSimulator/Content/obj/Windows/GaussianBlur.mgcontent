@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Gab/Desktop/koidl_mmp1/MMP1_Code_Review_Changes/TES_TriangleEscapeSimulator/Content/GaussianBlur.fx</SourceFile>
+  <SourceTime>2017-05-19T19:14:04.1315156+02:00</SourceTime>
+  <DestFile>C:/Users/Gab/Desktop/koidl_mmp1/MMP1_Code_Review_Changes/TES_TriangleEscapeSimulator/Content/bin/Windows/GaussianBlur.xnb</DestFile>
+  <DestTime>2017-06-25T23:00:52.1948478+02:00</DestTime>
+  <Importer>EffectImporter</Importer>
+  <ImporterTime>2017-03-01T16:05:36+01:00</ImporterTime>
+  <Processor>EffectProcessor</Processor>
+  <ProcessorTime>2017-03-01T16:05:36+01:00</ProcessorTime>
+  <Parameters>
+    <Key>DebugMode</Key>
+    <Value>Auto</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
