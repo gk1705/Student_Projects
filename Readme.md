@@ -77,7 +77,7 @@ Furthermore, there are alternative modes in which, for example, the players comp
 * Car and caravan physics from scratch
 * Custom system for persistent skid marks
 * [Featured in the FM4 Indie Area 2019](https://fm4.orf.at/stories/2992485/)
-* [Download Build](https://portfolio.multimediatechnology.at/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaFZEIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c6055e3fc17e161bddcf847b63ea1ba703a118f4/CaravanChaos310719.zip)
+* [Download Build](https://portfolio.fh-salzburg.ac.at/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaFZEIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--01ef9edc43b2b334ab3a16566e498397179202d2/CaravanChaos310719.zip)
 
 ## Multimedia Portfolio
 
